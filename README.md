@@ -6,6 +6,7 @@
 
 <div align="center">
 <h3 align="center">macOS High Sierra running on Sony VAIO VPCSB-1C5E</h3>
+<p align="center">(don't ask me why i didn't go for catalina i already had a dmg of 10.13)</p>
 </div>
 
 ---

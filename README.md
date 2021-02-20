@@ -16,8 +16,7 @@
 
 - ✅ <b>Integrated GPU (Intel HD Graphics 3000)</b>
 - ✅ <b>Audio: Internal Speakers/Headphones</b> 
-- ✅ <b>External Monitors (HDMI)</b> 
-
+- ✅ <b>External Monitors (HDMI)</b>
 - ✅ <b>USB 2.0/3.0</b> 
 - ✅ <b>Ethernet Connection</b> 
 - ✅ <b>Optical DVD Drive + Eject button</b>
@@ -26,9 +25,11 @@
 - ⚠️ <b>Bluetooth (can't be disabled/enabled through software, use the hardware switch)</b> 
 - ⚠️ <b>Brightness (third-party app needed)</b> 
 - ⚠️ <b>WiFi [third-party app needed (itlwm/heliPort)]</b>
-- ❌ <b>SD/M2 Duo Card Reader</b> 
+- ❌ <b>SD/M2 Duo Card Reader</b>
+- ❌ <b>Wake from Sleep (working on it)</b>
 - ❌ <b>Biometric sensor</b>
-- ❌ <b>AMD/ATI Dedicated GPU</b>
+- ❌ <b>WWAN Module</b>
+- ❌ <b>AMD/ATI Dedicated GPU (unsupported)</b>
  
 <br>
 Work in progress...

@@ -21,6 +21,7 @@
 - ✅ <b>USB 2.0/3.0</b> 
 - ✅ <b>Ethernet Connection</b> 
 - ✅ <b>Optical DVD Drive + Eject button</b>
+- ✅ <b>Battery Meter (AND IT TOOK AGES GODDAMNI-)</b>
 - ⚠️ <b>Trackpad (no gestures yet)</b> 
 - ⚠️ <b>Bluetooth (can't be disabled/enabled through software, use the hardware switch)</b> 
 - ⚠️ <b>Brightness (third-party app needed)</b> 
